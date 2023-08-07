@@ -1,7 +1,9 @@
 
 # 🖼 Image editor
 
-The application consists of a simple link tree for personal use.
+A straightforward image editor. Adjust brightness, saturation, grayscale, invert, rotate, and more with ease.
+
+###### Based on a replit application.
 
 ## 🤳 Preview
 <p> <img alt="Web" src="https://github.com/eumorales/eumorales/blob/main/preview/image-editor-web.png" /></p>
